@@ -30,8 +30,6 @@ I work with a variety of tools and technologies. Here are some of the key ones:
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![NLP](https://img.shields.io/badge/-NLP-336791?style=flat-square)
-- ![Predictive Analysis](https://img.shields.io/badge/-Predictive%20Analysis-009688?style=flat-square)
 
 ## My Projects
 
