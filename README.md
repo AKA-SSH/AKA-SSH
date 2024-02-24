@@ -8,8 +8,8 @@ With over 2 years of professional experience, I specialize in transforming compl
 
 ## Skills
 
-- <i class="fab fa-python"></i> **Languages**: Python
-- <i class="fab fa-tensorflow"></i> **Frameworks**: TensorFlow, Keras
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="20" height="20"/> **Languages**: Python
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="20" height="20"/> **Frameworks**: TensorFlow, Keras
 - <i class="fa fa-wrench"></i> **Tools**: Gemini-Pro, PaLM2, LangChain
 
 ## Education & Certifications
