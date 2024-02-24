@@ -1,54 +1,36 @@
-# Hi there, I'm Akash! 👋
+# Hello, I'm Akash Singh! 👋
 
-Welcome to my GitHub profile. I'm an aspiring data scientist with a passion for exploring data, building predictive models, and deriving insights from complex datasets.
+I'm a Data Scientist with a passion for leveraging technology to drive meaningful change. My expertise lies in Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Time Series Analysis.
 
-## About Me
+## Experience
 
-- 📊 Aspiring Data Scientist and Machine Learning enthusiast.
-- 🌍 Based in New Delhi, India.
-- 🎓 B.Tech. Graduate.
-- 📈 Day Trader and Technical Investor.
+With over 2 years of professional experience, I specialize in transforming complex data into actionable insights.
 
-## What I'm Interested In
+## Skills
 
-I'm passionate about data science and related fields. Here are some areas you'll find me exploring:
+- **Languages**: Python
+- **Frameworks**: TensorFlow, Keras
+- **Tools**: Gemini-Pro, PaLM2, LangChain
 
-- 🧮 Data analysis and visualization.
-- 🤖 Machine learning and predictive modeling.
-- 📈 Data-driven decision-making.
-- 📚 Natural Language Processing (NLP).
-- 🧠 Deep Learning with PyTorch and TensorFlow.
+## Education & Certifications
 
-## My Tech Stack
+- **Education**: B.Tech in Electrical and Electronics Engineering
+- **Certifications**: Jovian Data Science Bootcamp, Udemy NLP using Python 
 
-I work with a variety of tools and technologies. Here are some of the key ones:
+## Featured Projects
 
-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Asteroids Classification
+A project aimed at classifying asteroids and calculating their diameter for identifying potentially hazardous ones. Achieved near 99.99% accuracy.
+[GitHub Repo](https://github.com/AKA-SSH/Asteroids-Classification)
 
-## My Projects
+### Delhi Mean Temperature Forecast
+Utilizing Time Series Analysis techniques to forecast mean temperature in Delhi.
+[GitHub Repo](https://github.com/AKA-SSH/Delhi-Mean-Temp-Forecast)
 
-I enjoy working on data-driven projects to apply and expand my data science skills. You can expect to find a variety of projects in my repositories, including:
-
-- 📊 Data analysis and visualization.
-- 🤖 Machine learning models and tutorials.
-- 📈 Predictive analysis and forecasting.
+### Price Regression
+Predicting prices using regression techniques.
+[GitHub Repo](https://github.com/AKA-SSH/Price-Regression)
 
 ## Get in Touch
 
-I'm always open to connecting with fellow data enthusiasts, discussing potential collaborations, or just having a chat about data science. You can find me on:
-
-- 📧 Email: akashsingh99.as99@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aka-ssh/
-
-## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKA-SSH&show_icons=true&theme=dark)](https://github.com/AKA-SSH)
-
-
-Thank you for visiting my profile! Let's dive into the world of data together! 🚀
+I'm open to collaborations and discussions. Feel free to reach out via email at aka.ssh.datascience@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aka-ssh/) and [GitHub](https://github.com/AKA-SSH).
