@@ -8,9 +8,9 @@ With over 2 years of professional experience, I specialize in transforming compl
 
 ## Skills
 
-- </> **Languages**: Python
-- ⚙️ **Frameworks**: TensorFlow, Keras
-- 🔧 **Tools**: Gemini-Pro, PaLM2, LangChain
+- 💻 **Languages**: Python
+- 🛠️ **Frameworks**: TensorFlow, Keras
+- 🧰 **Tools**: Gemini-Pro, PaLM2, LangChain
 
 ## Education & Certifications
 
