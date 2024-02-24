@@ -8,14 +8,14 @@ With over 2 years of professional experience, I specialize in transforming compl
 
 ## Skills
 
-- <i class="fab fa-python" style="color:blue;"></i> **Languages**: Python
-- <i class="fab fa-tensorflow" style="color:orange;"></i> **Frameworks**: TensorFlow, Keras
-- <i class="fas fa-wrench" style="color:green;"></i> **Tools**: Gemini-Pro, PaLM2, LangChain
+- </> **Languages**: Python
+- ⚙️ **Frameworks**: TensorFlow, Keras
+- 🔧 **Tools**: Gemini-Pro, PaLM2, LangChain
 
 ## Education & Certifications
 
-- <i class="fas fa-graduation-cap"></i> **Education**: B.Tech in Electrical and Electronics Engineering
-- <i class="fas fa-certificate"></i> **Certifications**: Jovian Data Science Bootcamp, Udemy NLP using Python 
+- 🎓 **Education**: B.Tech in Electrical and Electronics Engineering
+- 📜 **Certifications**: Jovian Data Science Bootcamp, Udemy NLP using Python 
 
 ## Featured Projects
 
