@@ -2,10 +2,6 @@
 
 I'm a Data Scientist with a passion for leveraging technology to drive meaningful change. My expertise lies in Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Time Series Analysis.
 
-## Experience
-
-With over 2 years of professional experience, I specialize in transforming complex data into actionable insights.
-
 ## Skills
 
 - 💻 **Languages**: Python
