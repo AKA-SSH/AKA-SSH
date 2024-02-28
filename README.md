@@ -1,6 +1,7 @@
 # Hello, I'm Akash Singh! 👋
 
-I'm a Data Scientist with a passion for leveraging technology to drive meaningful change. My expertise lies in Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Time Series Analysis.
+I'm a Data Scientist with a passion for leveraging technology to drive meaningful change. My expertise lies in Data Science, Machine Learning, Deep Learning, Natural Language Processing, 
+ Time Series Analysis, and Generative AI.
 
 ## Skills
 
