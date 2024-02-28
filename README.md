@@ -12,7 +12,6 @@ I'm a Data Scientist with a passion for leveraging technology to drive meaningfu
 ## Education & Certifications
 
 - 🎓 **Education**: B.Tech in Electrical and Electronics Engineering
-- 📜 **Certifications**: Jovian Data Science Bootcamp, Udemy NLP using Python 
 
 ## Get in Touch
 
