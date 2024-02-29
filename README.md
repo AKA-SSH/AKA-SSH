@@ -15,4 +15,4 @@ I'm a Data Scientist with a passion for leveraging technology to drive meaningfu
 
 ## Get in Touch
 
-I'm open to collaborations and discussions. Feel free to reach out via email at aka.ssh.datascience@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aka-ssh/).
+I'm open to collaborations and discussions. Feel free to reach out via email at anyone.but.akash@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aka-ssh/).
